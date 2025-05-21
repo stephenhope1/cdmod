@@ -1,0 +1,34 @@
+{
+  "ambient.cave_whistles": {
+    "subtitle": "subtitles.modid.ambient.cave_whistles",
+    "sounds": [ "modid:ambient/cave_whistles" ]
+  },
+  "ambient.whoops": {
+    "subtitle": "subtitles.modid.ambient.whoops",
+    "sounds": [ "modid:ambient/whoops" ]
+  },
+  "ambient.pebbles_dropping": {
+    "subtitle": "subtitles.modid.ambient.pebbles_dropping",
+    "sounds": [ "modid:ambient/pebbles_dropping" ]
+  },
+  "ambient.distant_clicking": {
+    "subtitle": "subtitles.modid.ambient.distant_clicking",
+    "sounds": [ "modid:ambient/distant_clicking" ]
+  },
+  "triggered.distant_shrieking": {
+    "subtitle": "subtitles.modid.triggered.distant_shrieking",
+    "sounds": [ "modid:triggered/distant_shrieking" ]
+  },
+  "triggered.heavy_footsteps": {
+    "subtitle": "subtitles.modid.triggered.heavy_footsteps",
+    "sounds": [ "modid:triggered/heavy_footsteps" ]
+  },
+  "ambient.dweller_presence_clicks": {
+    "subtitle": "subtitles.modid.ambient.dweller_presence_clicks",
+    "sounds": [ "modid:ambient/dweller_presence_clicks" ]
+  },
+  "mob.dweller_stomp": {
+    "subtitle": "subtitles.modid.mob.dweller_stomp",
+    "sounds": [ "modid:mob/dweller_stomp" ]
+  }
+}

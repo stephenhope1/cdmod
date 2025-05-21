@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.example.modid.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ServerPlayerInteractionManagerMixin",
+    "PlayerEntityMixin",
+    "DeepDwellerEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
